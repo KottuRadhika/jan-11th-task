@@ -1,0 +1,27 @@
+.top{
+    color:red;
+    position:relative;
+    left:20px;
+    top:50px;
+}
+.img1{
+    width:200px;
+    height: 200px;
+    border-radius:200px;
+    border:ridge 3px black;
+}
+body{
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.edc{
+    color:red;
+    
+}
+
+.img3{
+    border:3px solid black;
+    width:300px;
+    height:300px;
+}
